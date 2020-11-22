@@ -1,0 +1,124 @@
+.fb {
+	display: block;
+	padding: 100;
+	width: 109px;
+	margin: 800;
+}
+
+
+
+
+
+/* Styling heading1 */
+.heading1 {
+	text-align: center;
+	color: red;
+	font-size: 50px;
+}
+
+/* Styling topbar */
+.topbar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 130px;
+	background-color: lightskyblue;
+} 
+
+/* Styling Body */
+body {
+	background-image:url("gambar.jpg");
+	background-size:100% 100%;
+	margin:auto;
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+}
+
+/* Styling Img1 */
+.img2
+{
+width: 100%;
+height: 500px;
+border: 0;
+}
+
+/* Styling Audio1 section */
+.aud1
+{
+width: 80%;
+border-radius: 50px;
+background-color: yellow;
+}
+
+/* Styling Audio2 section */
+.aud2
+{
+width: 80%;
+border-radius: 50px;
+background-color: green;
+}
+
+/* Styling Audio3 section */
+.aud3
+{
+width: 80%;
+border-radius: 50px;
+background-color: lightblue;
+}
+
+/* Styling Audio4 section */
+.aud4
+{
+width: 80%;
+border-radius: 50px;
+background-color: yellow;
+}
+
+/* Styling Audio5 section */
+.aud5
+{
+width: 80%;
+border-radius: 50px;
+background-color: blue;
+}
+
+/* Styling Audio6 section */
+.aud6
+{
+width: 80%;
+border-radius: 50px;
+background-color: pink;
+}
+
+/* Styling Audio7 section */
+.aud7
+{
+width: 80%;
+border-radius: 50px;
+background-color: pink;
+}
+
+/* Styling Audio8 section */
+.aud8
+{
+width: 80%;
+border-radius: 50px;
+background-color: pink;
+}
+
+/* Styling Audio9 section */
+.aud9
+{
+width: 80%;
+border-radius: 50px;
+background-color: pink;
+}
+
+/* Styling Audio10 section */
+.aud10
+{
+width: 80%;
+border-radius: 50px;
+background-color: pink;
+}
